@@ -1,0 +1,170 @@
+Features,Feature Importance
+Common Stock Value,0.05475082
+Goodwill,0.048025522
+Weighted Average Number Of Shares Outstanding Basic,0.045869976
+Share Based Compensation,0.045180205
+Retained Earnings Accumulated Deficit,0.043628212
+Common Stock Shares Authorized,0.038799793
+Assets,0.036989138
+Accumulated Depreciation Depletion And Amortization Property Plant And Equipment,0.036471806
+Common Stock Shares Issued,0.034919813
+Property Plant And Equipment Gross,0.034488704
+Stockholders Equity,0.033712707
+Accumulated Other Comprehensive Income Loss Net Of Tax,0.03224694
+Property Plant And Equipment Net,0.031988274
+Net Cash Provided By Used In Operating Activities,0.031643387
+Interest Expense,0.031470943
+Operating Income Loss,0.028280739
+Unrecognized Tax Benefits,0.025780307
+Current Income Tax Expense Benefit,0.02500431
+Cash And Cash Equivalents At Carrying Value,0.024486981
+Earnings Per Share Basic,0.02103811
+Net Cash Provided By Used In Investing Activities,0.02052078
+Payments For Repurchase Of Common Stock,0.019658562
+Current State And Local Tax Expense Benefit,0.018279014
+Net Cash Provided By Used In Financing Activities,0.017934127
+Net Income Loss,0.017330574
+sector_Consumer Discretionary,0.016899465
+Income Tax Expense Benefit,0.016640801
+Current Federal Tax Expense Benefit,0.016037248
+Comprehensive Income Net Of Tax,0.016037248
+sector_Information Technology,0.0152612515
+sector_Industrials,0.014830143
+Deferred Income Tax Expense Benefit,0.013967926
+Deferred State And Local Income Tax Expense Benefit,0.013536816
+Cash And Cash Equivalents Period Increase Decrease,0.012157269
+Deferred Federal Income Tax Expense Benefit,0.010691498
+Common Stock Par Or Stated Value Per Share,0.009398172
+sector_Real Estate,0.009225729
+sector_Health Care,0.008191068
+sector_Financials,0.006811519
+sector_Energy,0.005776858
+sector_Materials,0.003966201
+sector_Utilities,0.0031902052
+sector_Consumer Staples,0.0027590964
+Entity Well Known Seasoned Issuer,0.0022417658
+sector_Telecommunication Services,0.0006897741
+sector_Health Care Equipment,0.0004311088
+sector_Retail REITs,0.00034488706
+Entity Filer Category_Accelerated Filer,0.00034488706
+Entity Current Reporting Status,0.0002586653
+Entity Filer Category_Non-accelerated Filer,0.0002586653
+sector_Residential REITs,0.0002586653
+sector_Movies & Entertainment,0.0002586653
+sector_Oil & Gas Exploration & Production,0.00017244353
+sector_Office REITs,0.00017244353
+sector_Customer Discretionary,0.00017244353
+sector_Systems Software,8.6221764e-05
+sector_Health Care Supplies,8.6221764e-05
+sector_Life Sciences Tools & Services,8.6221764e-05
+sector_Trucking,8.6221764e-05
+sector_Homebuilding,8.6221764e-05
+sector_Electronic Equipment & Instruments,8.6221764e-05
+sector_Broadcasting,0.0
+sector_Managed Health Care,0.0
+sector_Packaged Foods & Meats,0.0
+sector_Oil & Gas Storage & Transportation,0.0
+sector_Oil & Gas Refining & Marketing,0.0
+Entity Filer Category_Smaller Reporting Accelerated Filer,0.0
+sector_Oil & Gas Equipment & Services,0.0
+Entity Filer Category_Smaller Reporting Company,0.0
+sector_Multi-line Insurance,0.0
+sector_Multi-Utilities,0.0
+sector_Advertising,0.0
+sector_Motorcycle Manufacturers,0.0
+sector_Aerospace & Defense,0.0
+sector_Agricultural Products,0.0
+sector_Building Products,0.0
+sector_Life & Health Insurance,0.0
+sector_Investment Banking & Brokerage,0.0
+sector_Internet Services & Infrastructure,0.0
+sector_Internet & Direct Marketing Retail,0.0
+sector_Interactive Media & Services,0.0
+sector_Interactive Home Entertainment,0.0
+sector_Integrated Telecommunication Services,0.0
+sector_Integrated Oil & Gas,0.0
+sector_Insurance Brokers,0.0
+sector_Air Freight & Logistics,0.0
+sector_Airlines,0.0
+sector_Paper Packaging,0.0
+sector_Personal Products,0.0
+sector_Pharmaceuticals,0.0
+sector_Property & Casualty Insurance,0.0
+sector_Water Utilities,0.0
+Amendment Flag,0.0
+Entity Voluntary Filers,0.0
+sector_Trading Companies & Distributors,0.0
+sector_Tobacco,0.0
+Document Fiscal Period Focus_FY,0.0
+"sector_Technology Hardware, Storage & Peripherals",0.0
+sector_Technology Distributors,0.0
+Document Fiscal Period Focus_Q4,0.0
+sector_Specialty Stores,0.0
+sector_Specialty Chemicals,0.0
+sector_Specialized REITs,0.0
+sector_Specialized Consumer Services,0.0
+sector_Soft Drinks,0.0
+sector_Semiconductors,0.0
+sector_Semiconductor Equipment,0.0
+Document Type_10-K,0.0
+sector_Restaurants,0.0
+Document Type_10-K/A,0.0
+sector_Research & Consulting Services,0.0
+sector_Regional Banks,0.0
+Entity Filer Category_Large Accelerated Filer,0.0
+sector_Railroads,0.0
+sector_Industrial REITs,0.0
+sector_Industrial Machinery,0.0
+sector_Industrial Gases,0.0
+sector_Environmental & Facilities Services,0.0
+sector_Electronic Manufacturing Services,0.0
+sector_Automobile Manufacturers,0.0
+sector_Electrical Components & Equipment,0.0
+sector_Electric Utilities,0.0
+sector_Drug Retail,0.0
+sector_Diversified Support Services,0.0
+sector_Diversified Chemicals,0.0
+sector_Diversified Banks,0.0
+sector_Distributors,0.0
+sector_Distillers & Vintners,0.0
+sector_Department Stores,0.0
+sector_Data Processing & Outsourced Services,0.0
+sector_Automotive Retail,0.0
+sector_Copper,0.0
+sector_Biotechnology,0.0
+sector_Consumer Finance,0.0
+sector_Brewers,0.0
+sector_Construction Machinery & Heavy Trucks,0.0
+sector_Construction & Engineering,0.0
+sector_Computer & Electronics Retail,0.0
+sector_Communications Equipment,0.0
+sector_Casinos & Gaming,0.0
+sector_Cable & Satellite,0.0
+sector_Auto Parts & Equipment,0.0
+sector_Fertilizers & Agricultural Chemicals,0.0
+sector_Industrial Conglomerates,0.0
+sector_Financial Exchanges & Data,0.0
+sector_Independent Power Producers & Energy Traders,0.0
+sector_IT Consulting & Other Services,0.0
+sector_Hypermarkets & Super Centers,0.0
+sector_Human Resource & Employment Services,0.0
+sector_Housewares & Specialties,0.0
+sector_Household Products,0.0
+sector_Household Appliances,0.0
+"sector_Hotels, Resorts & Cruise Lines",0.0
+sector_Alternative Carriers,0.0
+sector_Home Improvement Retail,0.0
+sector_Home Furnishings,0.0
+sector_Health Care Technology,0.0
+sector_Apparel Retail,0.0
+sector_Health Care Services,0.0
+sector_Health Care REITs,0.0
+sector_Health Care Facilities,0.0
+"sector_Apparel, Accessories & Luxury Goods",0.0
+sector_Health Care Distributors,0.0
+sector_Application Software,0.0
+sector_General Merchandise Stores,0.0
+sector_Gas Utilities,0.0
+sector_Food Distributors,0.0
+sector_Asset Management & Custody Banks,0.0
+sector_Wireless Telecommunication Services,0.0
