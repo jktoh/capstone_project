@@ -98,6 +98,8 @@ The manual inspection of the documents was quite limited, as I might not be qual
 - Current hyper parameter tuning `RandomizedSearchCV` is based on a sample from specified distributions, hence results can vary
 - To implement `GridSearchCV`, more intensive hyper parameter tuning but demands more computing power
 - Explore more hyper parameters to tune
-- Consider time series modelling, recurrent neural networks (RNN), long short-term memory (LSTM)
+- Explore time series modelling, recurrent neural networks (RNN), long short-term memory (LSTM)
 - Long run time to read file and train models on large datasets
 - Include actual financial performances of unicorns before and after IPO for evaluation of classifier
+- Identify potential clusters using unsupervised models
+- Identifying companies with creative accounting (but extremely rare known case such as Enron) 
