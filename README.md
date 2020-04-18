@@ -33,7 +33,7 @@ Wikipedia contributors. (2020, March 26). Market capitalization. In *Wikipedia, 
 
 Given the valuation of unicorns may not be as much as it claims to be, it is difficult for potential investors to determine their market values as if the unicorns were to be traded in the public market. Since market capitalization could represent market values, can we determine the market capitalization of these unicorns?
 
-Determining the exact market cap is a challenge because deriving the share price for calculating market cap is difficult, where share price can be affected by many different variables. Instead, based on the unicorns' financial performance, we will model a classifier that will divide the unicorns into large-cap, mid-cap and small-cap according to S&P's selection criteria.
+Determining the exact market cap is a challenge because deriving the share price for calculating market cap is difficult, where share price can be affected by many different variables. Instead, based on the unicorns' financial performance, we will model a classifier that will categorize the unicorns into large-cap, mid-cap and small-cap according to S&P's selection criteria.
 
 It should be noted, however, that potential investors should still continue to perform due diligence. This tool was created to help make it easier for potential investors to sift through many unicorns, and find their ideal investments.
 
