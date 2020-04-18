@@ -94,6 +94,7 @@ The manual inspection of the documents was quite limited, as I might not be qual
 - Expand data collection before 2009 and after 2020 (different document formats)
 - Expand to companies outside of S&P 1500 boundaries
 - To increase storage space to at least twice the size of current datasets, current datasets total up to 50GB where reading the file will take up the same amount of space as temporary storage
+- Alternative storage solutions for scraped datasets which are too large to be pushed onto GitHub
 - Current hyper parameter tuning `RandomizedSearchCV` is based on a sample from specified distributions, hence results can vary
 - To implement `GridSearchCV`, more intensive hyper parameter tuning but demands more computing power
 - Explore more hyper parameters to tune
