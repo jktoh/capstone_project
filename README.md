@@ -73,4 +73,29 @@ It should be noted, however, that potential investors should still continue to p
 3. [Pre-processing](code/09_preprocessing.ipynb)
 4. [Modelling](code/10_modelling.ipynb)
 5. [Production Model and Insights](code/11_production_model_and_insights.ipynb)
-6. Conclusion
+6. [Conclusion](#Conclusion)
+
+---
+
+## Conclusion
+
+In this project, we have attempted to model a market cap classifier and obtained features which are important in classifying companies to large-cap, mid-cap or small-cap. Using just the top few features, we can use scatter plots to visualize the relationships between the important features and market cap categories. Instead of having to manually search for a unicorn, potential investors can use this classifier to run through financial performance of all the unicorns, and with the new market cap category will aid potential investors to make informed decisions. 
+
+The modelling of the data was done through XGBoost classifier on a pre-processed, standardized financials. Importance provides a score that indicates how useful or valuable each feature was in the construction of the boosted decision trees within the model. The more an attribute is used to make key decisions with decision trees, the higher its relative importance. The important features are found through supervised learning models and can be used in revealing patterns that human may not have even thought about.
+
+The manual inspection of the documents was quite limited, as I might not be qualified enough to assess the meaning of the financial performances. Even so, it was apparant that the quantum in certain features could be related to a specific market cap. By organizing the unicorns, qualified people can quickly find a suitable investment. This project can further be improved by abstracting the underlying data analysis techniques as described in this notebook to develop a user interface/tool that presents the financial performance in a user-friendly manner.
+
+---
+
+## Future Thoughts To Consider
+
+- Including quarterly reports for better comparability between companies with different financial year end
+- Expand the modelling to include text documented within the annual report
+- Expand data collection before 2009 and after 2020 (different document formats)
+- Expand to companies outside of S&P 1500 boundaries
+- To increase storage space to at least twice the size of current datasets, current datasets total up to 50GB where reading the file will take up the same amount of space as temporary storage
+- Current hyper parameter tuning `RandomizedSearchCV` is based on a sample from specified distributions, hence results can vary
+- To implement `GridSearchCV`, more intensive hyper parameter tuning but demands more computing power
+- Explore more hyper parameters to tune
+- Consider time series modelling, recurrent neural networks (RNN), long short-term memory (LSTM)
+- Long run time to read file and train models on large datasets
