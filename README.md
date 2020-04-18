@@ -61,15 +61,16 @@ It should be noted, however, that potential investors should still continue to p
 ## Table of Contents
 
 1. Scrape the data
-    - Scrape list of S&P 500 companies
-    - Scrape list of S&P 1000 companies (mid-caps and small-caps)
-    - Scrape list of S&P 400 companies (to separate mid-caps from S&P 1000)
-    - From the list of S&P 500 companies, scrape data files from 10-K reports
-    - From the list of S&P 1000 companies, scrape data files from 10-K reports
+    - [Scrape list of S&P 500 companies](code/01_wiki_sp500_scraping.ipynb)
+    - [Scrape list of S&P 1000 companies (mid-caps and small-caps)](code/02_wiki_sp1000_scraping.ipynb)
+    - [Scrape list of S&P 400 companies (to separate mid-caps from S&P 1000)](code/03_wiki_sp400_scraping.ipynb)
+    - [From the list of S&P 500 companies, scrape data files from 10-K reports](code/04_edgar_sp500_scraping.ipynb)
+    - [From the list of S&P 1000 companies, scrape data files from 10-K reports](code/05_edgar_sp1000_scraping.ipynb)
 2. EDA and cleaning
-    - S&P 500
-    - S&P 1000
-    - S&P 500 and S&P 1000 merged
-3. Pre-processing
-4. Modelling
-5. Conclusion
+    - [S&P 500](code/06_eda_and_cleaning_sp500.ipynb)
+    - [S&P 1000](code/07_eda_and_cleaning_sp1000.ipynb)
+    - [S&P 500 and S&P 1000 merged](code/08_eda_and_cleaning_sp1500.ipynb)
+3. [Pre-processing](code/09_preprocessing.ipynb)
+4. [Modelling](code/10_modelling.ipynb)
+5. [Production Model and Insights](code/11_production_model_and_insights.ipynb)
+6. Conclusion
