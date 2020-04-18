@@ -100,3 +100,4 @@ The manual inspection of the documents was quite limited, as I might not be qual
 - Explore more hyper parameters to tune
 - Consider time series modelling, recurrent neural networks (RNN), long short-term memory (LSTM)
 - Long run time to read file and train models on large datasets
+- Include actual financial performances of unicorns before and after IPO for evaluation of classifier
