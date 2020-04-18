@@ -1,4 +1,4 @@
-# Unicorn Classifier
+# Market Capitalization Classifier (Unicorn Classifier)
 
 Unicorn, a privately held startup company valued at over \$1 billion. According to TechCrunch, there were 279 unicorns as of March 2018.
 
