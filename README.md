@@ -103,3 +103,4 @@ The manual inspection of the documents was quite limited, as I might not be qual
 - Include actual financial performances of unicorns before and after IPO for evaluation of classifier
 - Identify potential clusters using unsupervised models
 - Identifying companies with creative accounting (but extremely rare known case such as Enron) 
+- Features are more interpretable from `LogisticRegression` or `DecisionTree`, than `XGBoost`, at the expense of lower accuracies.
